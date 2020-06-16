@@ -6,6 +6,7 @@ Este documento esta creado con la intención de guardar el HTML y que pueda serv
 
 ### Índice
 
--
--Actualización: 31/05/2020
--
+-Actualización: 16/06/2020
+
+  -Estructura HTML
+
